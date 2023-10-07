@@ -4,6 +4,14 @@ This repository holds the data for assignment 1 in NLP 220, as well as code for 
 
 ## Getting Data for Assignment 1
 
+On Mac/Linux (e.g. `nlp-gpu-01`):
+```bash
+wget "https://raw.githubusercontent.com/kingb12/nlp220_hw1_data/main/small_books_rating.csv"
+```
+
+On Windows:
+
+Unable to test myself, but [Wget for Windows](https://eternallybored.org/misc/wget/) looks useful and would result in the same command as above once installed. Some more options [discussed here](https://superuser.com/questions/25538/how-to-download-files-from-command-line-in-windows-like-wget-or-curl).
 
 ## (Optional) Full Dataset Download Instructions
 

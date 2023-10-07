@@ -4,7 +4,7 @@ import csv
 
 from tqdm import tqdm
 
-COUNT_PER_REVIEW_SCORE: int = 5_000
+COUNT_PER_REVIEW_SCORE: int = 7_500
 
 
 if __name__ == '__main__':
