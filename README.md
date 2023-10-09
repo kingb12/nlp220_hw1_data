@@ -15,6 +15,8 @@ Unable to test myself, but [Wget for Windows](https://eternallybored.org/misc/wg
 
 ## (Optional) Full Dataset Download Instructions
 
+To reproduce, do the following, and then run `python create_dataset.py`.
+
 1. Sign up for a [Kaggle](https://www.kaggle.com/) account
 2. Set up an API token in your profile
 3. Move the API token (provided in `kaggle.json`) to your working computer (could be `nlp-gpu-01`) under `~/.kaggle`.
